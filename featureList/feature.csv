@@ -1,0 +1,102 @@
+URI,Method,User-agent,Body
+/pass/v2/safe/user/coreInfo?signature=N%2FS8bmBWN7%2BvAOupe6q6OrpqRDc%3D&userId=CFcper828yxKzrJJ%2BLgeYQ%3D%3D,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/rest/api3.do?v=*&appKey=21646297&deviceId=Atyuw-CgnJm7GR0Gna_GvAc4CZuhMdR_3Y4QmB9fjdKu&sign=21a85dd369ea756382be761cbf92c0db&t=1464009367&imei=865931022792071&api=mtop.common.getTimestamp&ttid=600000%40taobao_android_5.7.8&imsi=460016008300321,GET,anclient,
+/rest/api3.do?v=*&appKey=21646297&deviceId=Atyuw-CgnJm7GR0Gna_GvAc4CZuhMdR_3Y4QmB9fjdKu&sign=4cf2163f6e1d1deb5f523d63ad2885e9&t=1464009370&imei=865931022792071&api=mtop.common.getTimestamp&ttid=600000%40taobao_android_5.7.8&imsi=460016008300321,GET,anclient,
+/search.json?m=rainbow_bts&group=taobao4android&version=5.7.8&lt=1464009373&testsRn=tbAndroidSearchFullPathVTwo%3A5562%3A1464004170%3BtbAndroidMysearch%3A2264%3A1464004170%3BtbAndroidXRainbowSrpStat_beta%3A7693%3A0%3BtbAndroidSearchVoiceServer%3A4481%3A0%3BtbAndroidSearchPhotoVTwo%3A3448%3A0%3BtbAndroidXSearch_beta%3A7255%3A0%3BtbAndroidVoice%3A2706%3A0%3BtbAndroidSearchGuideHelper%3A3355%3A1464004170%3BtbAndroidXSearch%3A7371%3A1464004169%3BtbAndroidMtop%3A2638%3A0%3BtbAndroidSearchVoiceTestServer%3A5350%3A1464004153&utdid=Vz60VaeCnbEDAJzwleoE88ZJ,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/api/v2/account/device_token.json?,POST,3.6.3_ANDROID_TB(MI 4LTE;Xiaomi;android;6.0.1;23),wx_web_token=0389221481dad0aeee46a058bc1c0eb1&userId=cntaobaowjswmxb&appId=6&device_token=
+/api/v2/account/device_token.json?,POST,3.6.3_ANDROID_TB(MI 4LTE;Xiaomi;android;6.0.1;23),wx_web_token=82794752618b08f5e33d6e63bbf98d40&userId=cntaobaowjswmxb&appId=6&device_token=
+/rest/sur?ak=12278902&av=5.7.8&c=600000&v=3.0&s=b716135234065b11fda4a8b8c140e5c8&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=5.0.0&p=a&t=1464009375067&u=&is=0,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=žTP—¦”5Ã–$¹Ì¤°‚bêœÝx¥g•U’ïÒ2ö1âžøâþ™²f…_jB»r	Ñ£1¥`Y…H¥»ÕLÒÐ$A£1[VV«ûÝ’4Aj>
+ge•ù°""ûèú¤“_Ó«_D6ý[·H†©Ù"
+/rest/sur?ak=12278902&av=5.7.8&c=600000&v=3.0&s=b716135234065b11fda4a8b8c140e5c8&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=5.0.0&p=a&t=1464009375067&u=&is=0,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=žTP—¦”5Ã–$¹Ì¤°‚bêœÝx¥g•U’ïÒ2ö1âžøâþ™²f…_jB»r	Ñ£1¥`Y…H¥»ÕLÒÐ$A£1[VV«ûÝ’4Aj>
+ge•ù°""ûèú¤“_Ó«_D6ý[·H†©Ù"
+/rest/sur?ak=12278902&av=5.7.8&c=600000&v=3.0&s=b716135234065b11fda4a8b8c140e5c8&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=5.0.0&p=a&t=1464009375067&u=&is=0,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=žTP—¦”5Ã–$¹Ì¤°‚bêœÝx¥g•U’ïÒ2ö1âžøâþ™²f…_jB»r	Ñ£1¥`Y…H¥»ÕLÒÐ$A£1[VV«ûÝ’4Aj>
+ge•ù°""ûèú¤“_Ó«_D6ý[·H†©Ù"
+/mobile/binary,POST,AMAP_Location_SDK_Android 2.4.0,‹
+/v3/log/init,POST,AMAP_Location_SDK_Android 2.4.0,encode=UTF-8&ts=1464009380517&resType=json&key=3a9fd0e1c8ffb7cdc625d98bcaae265b&scode=a7387fa2beb42bab9e6015feba02e441
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=34932835144754c70039acbbb735345fe091a5d2&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009382755&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=nRæ¶þŒ6c9‡ÆäÈˆÏ]-Y›TÑýcnB½
+eÔ‰šæš©F¹#ò0&&f>ãW¬šÞ3xÚl÷K–úËXH}©¡‡+èÁ%äØGe„ArÍIW™²ÕÄiz¤qŠÌöŸh` ÎåWÅ0+ÌF6|¢ÀDY9ÒE„¾kÀHÜ©®Ø	¶ï
+°Ö²-¡öœë_’¢þ€ÿ³=«0®(‡üÏ¨ÝÜ{ÆÄ-€{ír6""uôæbxÒFµÍ†ËD;ÛQkBb‹àÓ)”¶«’Ä›V>n›>O®9+Ç,Â„2õ.õÅ•ÞY‡õºmçÅó±8‹³¹ióÄbLì cg¤àñ{ÛÎòûM–4`Zýýà·r¤ßêó_Båûµ§
+X´«a=À¸‰¬c–OI°	Æ^vúý¨Ûq#{p­±m5Y•µ·Û®I
+è~¸lPðø$géa#ù'Ä„ÿ/c©ªÌ0i¢qÊå+æ–bCÂ3ÝK¬­zÉÁ”ñû#˜7c¾oË¶ßÆ/Î÷d""ÞQ*¤è¸™ÄÛúo­,K‡Õj=6)9ä\[U:]™+ó#4¶ùêc˜µqÈ4´x‰¿u‘¢ol‹H¡Î¹Ù² M@Oîä>#o('ýX¸¾
+#&ªÃiÂE°ÂZß¤Iüf¸ãí7-ßÎ =omä·!/yseN†ò‘×¨4ö9Y¶güãP{„=)/„æ—ÌKâ’3nÒ?.>…Ú""GÏY¼ÒT?²ƒü¾Öyè\JLÆ¾Átûœm&Q‡qáÁ
+OB(´B{–Á_kheQ_½<íóÄÈuóp÷•gÐÓáŽA O=8x•Âòã¿ƒ²”Ö$™}Y:^¦&6‰Î/ù°±LÎ‚,9¨È‚Ž
+--GJircTeP--
+"
+/rest/sur?ak=12278902&av=5.7.8&c=600000&v=3.0&s=32d319ee3f3aeafbe60530c92ad2fb86&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=5.0.0&p=a&t=1464009388312&u=&is=0,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_p""; filename=""stm_p""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=6–ÀvöˆoØåÎ3*ŒU9ßQŒ
+:æC)Æ!L1]¡˜õœAóOýA–Ý¤E3£•Ëö¾œ~©¶*%(÷xTŒÒf ÷’/)ÒBSÈ†(wUjq‘mÿÚD¨IL•H¶ÛôŒyñ“ÙÖåäÆzY¬CQd?u½³<ëÔYŸcu)YcDsƒ‘Œ{ä5©Ê÷‘oÄgŒ!D’zDå)½$½äÁÎ¡)ý¨…b‹ÜŠ@^ŒÐÁ¨—<‰—®)ï4Íu‡lp1†3Õq˜IœPÁ£Š&kô\Ih°rÃV¢öêàGðíáu×:¿/Òù-BV6©g¢Ò^ô `!¹"
+/rest/sur?ak=12278902&av=5.7.8&c=600000&v=3.0&s=ff054d0fde004b5dedcb098618b88a94&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=5.0.0&p=a&t=1464009391522&u=&is=0,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=6•F—çˆkØi,”’ÈBÉð– ÙÇ€81Ònãî×¸üÀü»ààDXõ¿ç¤ÛÓ¹\3ÿÜ-“~‘•ØZQ)ó-¡W³Ä^àå³F:\O=H •Ä#X ˆ€WŠ3%hÚ£{Ær¢†Æµ ê”ä¥`t¤‘yl¥ö­ÎãïHÃ]eM2{G»z¿MÐsÔÄ*öû“ÃR—èqÇô)ÊYZa*ÿÉSHT_f;FÄæ#ä“œK°8Ÿ'o<¨²ÿ60%êøà+˜7%˜™hú7V¦6N“]Ó§.jçž•'’{~8M8YöEÜÓ¬ÑÙF?•Ú„%þ——ÀºF)˜3W€ëÄ=Š±1-ÚóÚ#d¯kžòNh4åY÷zw;+"
+/bao/uploaded/LB1g.UhLVXXXXaSXXXXXXXXXXXX.zip,HEAD,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/tfscom/TB17yiLJFXXXXaxXVXXcvNbFXXX.zip,HEAD,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/,POST,AssistantDownloader,"
+&"
+/analytics/async,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"'Ì¾*6eÛÐL$(--
+þeû×xŒàt¨‹S¸7çÂrîoFŽûéí¸ÞÎeëq†ï`ãr{(ŠÂs&>€—EŒ}‘»(œvqþþ’Í»¬\L ÁÏA,Z·ÒÑþÑÝ—{3uqÆ`LÝo¬|$ÿLÔ«þõ©Œ÷1Þ™9}²5UµNî:#ë!c·Rwhr¹£-…Ÿï‚ånCïÍºpþü“–Kµ£tÄTœmoé²µ;ymÕ:Š‹ÈUJÀ°Ã?dXkÓÄ“eT±}{57¹÷Xyài)®ÊËB¨²hÂx§ÄïdÖ%Ò¸§ê<“åq
+Œ¼þà°fìÒ]µî|%Ü¢Š?ÛkÖSi/ö»¯ïµS®Îš±ƒeMîGêÎEJd`yò£âKZ;—×°#53ó©är·_XÌ°T‰5É·Y¸A¾(¢ºÉ£*É¨da¥rêç4¿$Y×gŒ"
+/analytics/async,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"'Ì¾*6eÛðLVÍ-]*•»ÖpWXs~xï¹õNsâ+""•ªD\¸è§¥Æ,ÚiË&H@ÛÚ=cÙ÷±?s#œá×;ÈMÎõËxšSze»Ú‘A[~Uíd,DUO'½k:Å;[ŒýKJY°Ê»Û`[çÏÿ‘Ö“[ðDèÉÊÅÙeË1)W›¼ƒ’Ð—ªÅ€•^†j&_rq€‹±ë)´dC÷yëûÚ€LÃUî§šc!ô#µúµL!íc^±»àÀl€îS™ªé©t¼Á¼ÆÁ†'o4Ny"
+/,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"<•È¢Ø¼£\pz«¿N«=Eº¢pY0Ïgçî
+H¾n¢OÆ¼q»ÿŸc;ÍòL»<Ñ­¶ÎçÀ%ze	M-ƒÖ™R!Âü4¡¾Fç,ˆõJyÈd$è–\·©)¦ô|9ð»kMìó´ÁYì–™.”Ä¾Ø5ê	6èíåãŒÏÂaöÕêô]IËÚðóæ£`mã½HÃðßh‘œïúR6Æ»Ï}'óF±÷]Ý$WBO‰ßNû¸l3ÂâÍ4#·-#0xâ:¯ƒ±:óC×Ôö‘šó¨¶Æ¶[¸]|â‡íejòÜ~èbÛ}!x?x""4ÛóXÏ‡wKéYR@óyŒ¯3_AÃ>65ì½Ã¶o\""×ƒ­1Ã;€éùyüŒÿõ!JŸÊ	«TN';‰P-Ad‚"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=5d69412e698d56b87b5a86c110ec72c4fdecbdce&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009455111&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=>Rà’þˆ0#DêãÝ²§Ý""aJYD×ÃËÑœe®¼þ—m¤ŠÐ	À6CÁ‰óÃrÙî!kr¯Í¸ç“:8ÑüÇÒãÖó5hÃ(+¶W³B“#ïºÛÊÌ»ÝmðånéÇOðçG5uØÓ6HÿÂâÖFY5'lQ›Ýuz¶L¨$cc:Î-£#ñ.5J°üwpiXà^ì¶óÕÇçFñH¡–¦Ö:QSñêÚ¯Ãmyqç|‘Û´Xd NÓ9JGØÀ%À…ƒÞ4!æØ™zŽIÿ<ÞqÓ^""ÒúVžò2Ã’p0£Û­„õXcmä¨7‹^–—•mðŽ¿.iÒhË¿G=½aTk”C½Á§©q‡ÿ Ú‡6G±±A!ApeMÆÇÅë›¤""°8®q™¢è½‹!ƒ68Xf<`å²‚Ê‹`ò6,¨‰$;©£/!{Ç'³á20âeAÇ¹HAÃ™26,î=Wå;÷!‡F×ÆÉ½¬¾]¢‡»ò:v7fì¤÷°.’½(º#h†CG¹êzõð_@zf¹HóY×¿ïIb¯°á\žYƒEFÎ
+öŒ‰xa^ƒ4P¬ëˆ~„žv·ºnŒ°d°âMl!:¢úêƒÅ,çsKsSÜ7y¸Å‡{åÍ-E¡¼m…k40-U®´xŽ)G£	žh4MižõÑ[`Ÿó~p*UÚC†=Ëo„U…{ž!H8MxšÊ> +s‹’u²B8[f¼Ì*Írlìˆw“þ÷CPÊÿjé6‰¢æÝ–5ìJœ¢ÒÎ/Ñrßš))Þ‡""RèÞNF[…SU“5V“3½Qôù˜>†&ƒºÁGÝ¿;8š£RóÔn;òûwTdì3žh™!äñn@/V~
+--GJircTeP--
+"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=2928cc2a574c5eaed6b8abd0b58843878787399e&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009486535&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=Sà¶þˆwC@NìÆáõ	Ñž¢¥ëÿÿß5lU#7ê}MŠ+¯&YNÎ¶SWØ9´øÙ=Ç%æÏj¸ä§×ä#Ì$ƒóhÃ)^+ÆWÐê”;ä~Ê§·Pˆ†¦Â±’#Ípºu(–Î´àæ§PïFDaé}@–Ä™,d®V”‡´µg¤praY]Ô=Th„)­ü6Nk‰l‰€Oê•$ÏSÎ^4ÌÇ½ñæ8ß;aÕlµï”ˆ›	¶ø0—Þ:¡3¨]e/H9.EßOã²Ù—1€•2aùcÌž“£ÜlãóÕ“×å¿šŸµpóöòè¹óp<y÷ïÏLñÈ¥"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=5b7f15a5098575965a7ad4c6b3e5ed3a699f2fdf&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009517490&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=nVsþˆM	QÔ¦âãQ;’àÎKÊ¸ï+™º–²‚Fzê~N§‘r)4a´á™NÊ¡¯‰½àØ]x}QPÛnJkü3ùO\ÍÌöRšß?¡s°#`¿×¯Â?JüSœÊÇr V¦ÚÆZy,ÍAíÜqxÛ9áO:Zd)R_Æ¾±e`6® Sbr'a	Üd+e£¢bþ¥;>¶PêÄRU›É<î³ž\àZºNô#ü"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=425d6afa0c5147c85c372bad6c2ae394b85b4e98&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009518848&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=¶–V—þ”M	²œA÷·êNk(º`±ÆÂ¦àºÐG4óüÿøÈø“d>†ó€j¡¡Ý¯ëÒ9ˆ|wÐôùFÀƒ‹š¬÷Jù%
+©ívP)2£h¬r±q’'Ú$yQÞþÄ‡6ç¨«Õd/-Š)‚O%–‚G†Ç¼mïµ="
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=90086bb8d46b749c133bfbeef75ae1169718cba6&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009550015&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=nà–ÿˆN·`,L…&-·c9+ºe¹»…W*Äaí·®@£ëRkÖÏ›0Üí–ÜÉÜXß¼D^Lê­ RþÚöº0-·¯¢4öè–X&n6´±}['³“äËÙúücQóœ)UÎPÃ3Û>®@³AD˜ßÃx@¶([SÏ±nŒ ŠñÓ8žXL›%a	ÜdcÔ+	¦Dz<yJ;ÓF"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=17722e5d9da555af863a0a48c9879c9fafaec827&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009616296&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=6‘à’þˆN""¬""öäÛO2;:GÉüŠÑôG§#ap·ÿ—â˜cB {­ö#D$zm¹Èéõwu*Z‰ŒyHÜ;–¶»Š«""—ªjP§¨¨üªÛî]ûûUkÁ7…	P£Žp¯aUÚÇîp¨àS¨¶
+‘YTƒ640ÐÍT!
+O¶þÜí~§¥c3µo@ÜóÏXHrh‰é:ºGÅ=Ýåÿ±@ti+îO~1¸U{){‰ÃC[ýÇ3ÏµOÁÓŽ:ÇÅ¤þ[Ú|®u´V@?ú‰ò’ð];°„Mf\t""âCt²uËpwÔ='7<ˆ=/¡Ã9­'#^’šo´8ûZ3ñ‘ÏL“?nÍ:‘ˆˆÁ¨ùöhT-…ÑÓ¤…ªIU-H©¦Œ`Ý¾¶]Së…¨{»TÕ(JQj,Ñ]‡’åÛ–ÞÆ¶(M†®ÌÜ¯…§b¬uÚJØÃ÷HpY°Óhƒe²­°tO‡ÄR#¢R'Ñ˜LùcÒ¶KË$9Y°Ú?¯ ˜óìÛ*â"
+/rest/sur?ak=21646297&av=5.7.8&c=600000&v=3.0&s=72e922ff23a2235047a6b68b1c5aab04d5a35af9&d=Vz60VaeCnbEDAJzwleoE88ZJ&sv=2.4.7&p=a&t=1464009621533&u=&is=1,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"--GJircTeP
+Content-Disposition: form-data; name=""stm_d""; filename=""stm_d""
+Content-Type: application/octet-stream 
+
+>Ï¼N«Õ7Å=¾–VwöˆM‰TÖÓqÏ¾#ÎvÎ"

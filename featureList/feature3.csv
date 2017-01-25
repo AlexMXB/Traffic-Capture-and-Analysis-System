@@ -1,0 +1,40 @@
+URI,Method,User-agent,Body
+/qqconnectopen/openapi/policy_conf?status_os=6.0.1&status_version=23&status_machine=MI+4LTE&sdkp=a&sdkv=2.9.2&appid=1104466820,GET,AndroidSDK_23_cancro_6.0.1,
+/analytics/async,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"˘„ÎDEÂc <""¥<†¡–fÛn¥≥ÕÒ–∑≤N‰ÚHŒÊÃ4çM˛≥ñmKUê)WÍY˛5Ñ6XFUÔ˛‚⁄Œ˝PÓ◊˛íg‰BUÕ]πy¬ÙMàøÉzF‚ô¢í0˝-pøÇı§¢ìÕæó›IŸﬂl^Úílƒ“¶x4@à‘†RÕG⁄iy+b÷MNoF˘'…<®øΩ˜“}*Ä≥æc¯≈°eΩVâ›$ÀŸÙ?Ì3ã"
+/pass/v2/safe/user/coreInfo?signature=N%2FS8bmBWN7%2BvAOupe6q6OrpqRDc%3D&userId=CFcper828yxKzrJJ%2BLgeYQ%3D%3D,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"˘‘∏{î4√øizB9œ◊‡ iJåË,IrÛ´W‚—“∞‡ÄgãV¯™•“Yˇl‡öÈ|æŒÛ)S	cÄ2n=„À
+-Æ”w*≤*/et4Y£6ãiπf&%jÛX‹,‰t√,å‰ÒâÉwÏàã√yª"
+/,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),PXÜ∆Pˆ®÷Ó§aÒ±5òR
+/api/v1/client/config/sdk_udp,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/gamer/version,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/gamer/sdk/nodes,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/tws/flowpackage/QueryOrderRelation?OutUid=owanlslj349maE7vW_N9cEwK7n4s&OutUidType=1&Timestamp=63600142136&Channel=1100_WzryApp&Token=2c55e082430f357a50005289aa42816e,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/yywj/feiyingtu5yue/wcg.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/yywj/feiyingtu5yue/fkdz0529.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/Banner/img/Loading/6.png,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/Banner/img/Mall/0524_v12_04.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/Banner/img/Mall/0112_v9_04.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/Banner/img/Mall/0511_v12_08.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXmTbZET29qKbxU44ib7jaNianXHeDRonDTCqNib9ic3GPjXyA71RNeKq6U8icyUrZY8on6WL5Lmjic7HmpA/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/cgi-bin/api/tplay/wx95a3a4d7c627e07d_cloud.cgi?openid=owanlslj349maE7vW_N9cEwK7n4s&partition=3068&gameappversion=1.12.1.7&areaid=3&appid=wx95a3a4d7c627e07d&acctype=wx&platid=1&sdkversion=YXZJ-Android-V0.4&_pdr_time=1464516549,POST,Pandora(YXZJ-Android-V0.4),"{""data"":""ypS4f/+/gqc83Wsxilpm1ljrojoJO2c2T644H7k4uAaltr+RHT9QON6wfbWD/5Yv22Fl/K8uKOei6LPT6G6GtnhNz7IFx+vrx01UEan8VGIVV36wfIOkNHyLPrmLOYiYgO9sZ5yF6kylUrLmoVwPbTWb1ULgK36DOCFRwZ8yeM1xxrITBBEYOqOBWp0Hqc4MnpEsuNHUNyKJfxE70grRaobWDzJWVpyMLYdTt4CQVHtFWHIlXO9jAkyaWJIedUA/FoNhR7eCsseyI1km7yZGLg=="",""encrypt"" : ""true""}"
+/mmopen/ajNVdqHZLLB1gvsX8E9LvRRZkYvBKGE4fwBQ7ajtwoqN9GSCQNy5pC47dLFmBs8b53AsibrGaBf5xK8ReoC2tKA/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/Q3auHgzwzM4qRHgwibGXKuozbkzpwW2CibTofsWKaLMJWGDz5sz8uYo1AEfpRSFbEltN4Dln1oDlvp7nvwMC80tA/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/GMZ6juZ7BCgIqpvhoaz4DO1r6xichrKc2O0zjunBiaQT3UeZz3sdicZS3AwZjkyRQoZvqH5YKVM5l28EicosHY6x2WicFVYntib7pv/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/Q3auHgzwzM5z0kmzdQJ04lgC0LOfzLt1njov7gINILd6hfJQ2boSA9uPQ3JBUJGhyAA5SKbzyoW466ktHymAUg/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/yywj/1605/pifu1.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/yywj/1605/fuwen1.jpg,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXk6rG8Ww4wzdsjRJ8upicdGhtLfRx5NqfcE4hrhMGgYulT3c3PWSdmib9zg5GKM5xt852GZdN6FRd2iavu4KHGFY19/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/iaFUDgCqk9mVDXOia7cicT9sWiaD3JChILIY9SpWBmXuhhnNcCBVfu1GT6Hj46ibVicwic1N9ydIiblsOWEEA8k8ibxWjCMXfBfRGibpSm/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXlWibBicIwAj6VbO489kJk0M7BVjzgB7cbuKicqjKftb6y316xeGR9csSibV3Xax8WHyeJpeMt55OIic2Q/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/2820MBobXJ1ZefQiaX22JWPUx0nMPjHrZ61m1fUXpSmdiaicu0xhhiaPzT5DWUHD2ibk6ogD96xbK082dkWo7aAUic29ZOTmQZLiaMj/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXk6rG8Ww4wzdsjRJ8upicdGhtLfRx5NqfcE4hrhMGgYulT3c3PWSdmib9zg5GKM5xt852GZdN6FRd2iavu4KHGFY19/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXlWibBicIwAj6VbO489kJk0M7BVjzgB7cbuKicqjKftb6y316xeGR9csSibV3Xax8WHyeJpeMt55OIic2Q/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/GMZ6juZ7BChBWnJtiagAibkuBsicduibaYlckhm6fjhvWxu9yibiax3YAMaWILGJaAjic3NsnHHjib9hIicU5uPC1VibpdGMIuiakAbCLEE/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/ajNVdqHZLLCK3rd1ZnWgTntIc4ZGNiaWaSgiaVnkE5eLCq1frDBJSmBxpyOu1b22VzROrBH0icEGxd7816D0qI5LQ/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/Q3auHgzwzM6ky0DOIdF1wOfiaiaCB9dzESGcghVSibdZLPqYLBuYl3AsvbXOKBsNBj2H7mFicEoqlOwHaDaC4KYEAQ/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/GMZ6juZ7BCgIqpvhoaz4DDnuRGicIK0hjrEoiaGSq8RAEh476UyTITsu0OFHjflMyjXrew6lxUoqojDuEJ9HfCWT6aozibsIA0J/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/6iaDgHPRQpXk6rG8Ww4wzdhw65zyiaEopp16haqJOGT3tJ1u26hP8JmEmCl4eOkpOL1icEuTbwgv6d3IEk5O4K4fm4ibTlubZAU3/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/mmopen/iaFUDgCqk9mVDXOia7cicT9sWiaD3JChILIY9SpWBmXuhhnNcCBVfu1GT6Hj46ibVicwic1N9ydIiblsOWEEA8k8ibxWjCMXfBfRGibpSm/96,GET,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),
+/configsvr/serverlist.jsp?mType=getssolist,POST,Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/666.4.14),"-'I ^jÀ≠–dQ∏E√8óÿaıZ◊¬πâb˚~	·ûDÕÏ,mú¢Œ9ø[
+∞Ògú›ñ‰“◊bé˜Jπ“Ë5Û†u5çm5xVÊ|
+Â≥?TÀQ\∞õd,≠≥Ë≤Yî?µÜny´ôgä•khôÔ1‚µXÎÊÆ»·pﬂ]YÙßVÍ'å•?Óv¬—˙6Dv"
